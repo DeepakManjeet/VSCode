@@ -1,1 +1,1 @@
- $"{[{\"id\":{resultID},\"testResultStatusId\":291,\"userKey\":\"JIRAUSER245144\",\"executionDate\":\"2024-05-10T05:56:08.767Z\",\"actualStartDate\":\"2025-05-19T05:56:08.767Z\"}]}
+$"[{{\"id\":{resultID},\"testResultStatusId\":291,\"userKey\":\"JIRAUSER245144\",\"executionDate\":\"2024-05-10T05:56:08.767Z\",\"actualStartDate\":\"2025-05-19T05:56:08.767Z\"}}]";
