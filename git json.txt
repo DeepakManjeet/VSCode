@@ -1,1 +1,15 @@
           String data = $"{{\"testRunId\":405,\"addedTestRunItems\":[{\"index\":0,\"lastTestResult\":{\"testCaseId\":147867}}]}}";
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Constructing the JSON string with string interpolation
+        string data = $"{{\"testRunId\":405,\"addedTestRunItems\":[{{\"index\":0,\"lastTestResult\":{{\"testCaseId\":147867}}}}]}}";
+
+        Console.WriteLine(data);
+    }
+}
+
